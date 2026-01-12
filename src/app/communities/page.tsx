@@ -73,6 +73,7 @@ export default async function CommunitiesPage() {
                 height={40}
                 className="w-10 h-10 rounded-full border-2 border-border"
                 referrerPolicy="no-referrer"
+                unoptimized
               />
             )}
           </div>
